@@ -29,7 +29,7 @@
 
 
 I'm Fred Okorio! 
-- <i>Currently:</i>Applied Technology Student at Brigham Young University-Idaho. 
+- <i>Currently:</i> Applied Technology Student at Brigham Young University-Idaho. 
 - <i>Previously:</i> Backend developer at TechBuzz Hub.
 
 
