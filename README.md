@@ -35,7 +35,7 @@ I'm Fred Okorio!
 
 <h2>💻 I'm Currently Learning</h2>
 
-- ENG 150 - Writing and Reasoning Foundations
+- ENG 150: Writing and Reasoning Foundations
 - AI/ML: Data Analytics
 - AI/ML: Statistical Programming
 - AI/ML: Interactive Design Thinking
