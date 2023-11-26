@@ -35,8 +35,8 @@ I'm Fred Okorio!
 
 <h2>💻 I'm Currently Learning</h2>
 
-- CSE 340 - Web Backend Development I
-- WDD 330 - Web Frontend Development II
-- GS 170 - Career Development
-
-
+- ENG 150 - Writing and Reasoning Foundations
+- AI/ML: Data Analytics
+- AI/ML: Statistical Programming
+- AI/ML: Interactive Design Thinking
+- AI/ML: Technical Project Management
